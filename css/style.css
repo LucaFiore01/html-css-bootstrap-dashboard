@@ -40,3 +40,14 @@ main .btn-primary {
 .todo {
     max-height: calc(100% / 2);
 }
+
+.faq-title {
+    margin-top: 20px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.todo-title {
+    margin-bottom: 15px;
+    font-weight: bold;
+}

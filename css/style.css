@@ -42,7 +42,7 @@ main .btn-primary {
 }
 
 .faq-title {
-    margin-top: 20px;
+    margin-top: 30px;
     margin-bottom: 15px;
     font-weight: bold;
 }
@@ -50,4 +50,9 @@ main .btn-primary {
 .todo-title {
     margin-bottom: 15px;
     font-weight: bold;
+}
+
+.section-header {
+    margin-bottom: 20px;
+
 }
